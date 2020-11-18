@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Alireza Dehghani</title>
+        <link>https://ard24ie.github.io/</link>
+        <description>Alireza Dehghani</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 17 Nov 2020 11:06:43 &#43;0330</lastBuildDate>
+            <atom:link href="https://ard24ie.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First Post</title>
+    <link>https://ard24ie.github.io/posts/firstpost/</link>
+    <pubDate>Tue, 17 Nov 2020 11:06:43 &#43;0330</pubDate>
+    <author>Author</author>
+    <guid>https://ard24ie.github.io/posts/firstpost/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Second Post</title>
+    <link>https://ard24ie.github.io/posts/secondpost/</link>
+    <pubDate>Tue, 17 Nov 2020 11:06:43 &#43;0330</pubDate>
+    <author>Author</author>
+    <guid>https://ard24ie.github.io/posts/secondpost/</guid>
+    <description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.]]></description>
+</item></channel>
+</rss>
