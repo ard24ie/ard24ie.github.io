@@ -1,23 +1,38 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Alireza Dehghani</title>
-        <link>https://ard24ie.github.io/</link>
-        <description>Alireza Dehghani</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 17 Nov 2020 11:06:43 &#43;0330</lastBuildDate>
-            <atom:link href="https://ard24ie.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>First Post</title>
-    <link>https://ard24ie.github.io/posts/firstpost/</link>
-    <pubDate>Tue, 17 Nov 2020 11:06:43 &#43;0330</pubDate>
-    <author>Author</author>
-    <guid>https://ard24ie.github.io/posts/firstpost/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Second Post</title>
-    <link>https://ard24ie.github.io/posts/secondpost/</link>
-    <pubDate>Tue, 17 Nov 2020 11:06:43 &#43;0330</pubDate>
-    <author>Author</author>
-    <guid>https://ard24ie.github.io/posts/secondpost/</guid>
-    <description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alireza Dehghani</title>
+    <link>https://ard24ie.github.io/</link>
+    <description>Recent content on Alireza Dehghani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Nov 2020 11:06:43 +0330</lastBuildDate><atom:link href="https://ard24ie.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://ard24ie.github.io/posts/firstpost/</link>
+      <pubDate>Tue, 17 Nov 2020 11:06:43 +0330</pubDate>
+      
+      <guid>https://ard24ie.github.io/posts/firstpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://ard24ie.github.io/posts/secondpost/</link>
+      <pubDate>Tue, 17 Nov 2020 11:06:43 +0330</pubDate>
+      
+      <guid>https://ard24ie.github.io/posts/secondpost/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://ard24ie.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ard24ie.github.io/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</description>
+    </item>
+    
+  </channel>
 </rss>
