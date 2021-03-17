@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Alireza Dehghani</title>
+    <link>https://ard24ie.github.io/news/</link>
+    <description>Recent content in News on Alireza Dehghani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Dec 2020 11:06:43 +0330</lastBuildDate><atom:link href="https://ard24ie.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Post</title>
+      <link>https://ard24ie.github.io/news/thirdpost/</link>
+      <pubDate>Thu, 17 Dec 2020 11:06:43 +0330</pubDate>
+      
+      <guid>https://ard24ie.github.io/news/thirdpost/</guid>
+      <description>newest post in the news</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://ard24ie.github.io/news/firstpost/</link>
+      <pubDate>Tue, 17 Nov 2020 11:06:43 +0330</pubDate>
+      
+      <guid>https://ard24ie.github.io/news/firstpost/</guid>
+      <description>first post in news</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://ard24ie.github.io/news/secondpost/</link>
+      <pubDate>Tue, 17 Nov 2020 11:06:43 +0330</pubDate>
+      
+      <guid>https://ard24ie.github.io/news/secondpost/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</description>
+    </item>
+    
+  </channel>
+</rss>

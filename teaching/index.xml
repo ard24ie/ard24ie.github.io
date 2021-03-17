@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Alireza Dehghani</title>
+    <link>https://ard24ie.github.io/teaching/</link>
+    <description>Recent content in Teaching on Alireza Dehghani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ard24ie.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://ard24ie.github.io/teaching/1/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ard24ie.github.io/teaching/1/</guid>
+      <description>Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.</description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://ard24ie.github.io/teaching/2/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ard24ie.github.io/teaching/2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
