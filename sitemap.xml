@@ -88,16 +88,6 @@
   </url>
   
   <url>
-    <loc>https://ard24ie.github.io/misc/1/</loc>
-    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ard24ie.github.io/misc/2/</loc>
-    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ard24ie.github.io/patents/1/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
@@ -158,8 +148,22 @@
   </url>
   
   <url>
+    <loc>https://ard24ie.github.io/misc/1/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ard24ie.github.io/misc/2/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ard24ie.github.io/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ard24ie.github.io/bio/</loc>
   </url>
   
   <url>
@@ -168,10 +172,6 @@
   
   <url>
     <loc>https://ard24ie.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ard24ie.github.io/bio/</loc>
   </url>
   
   <url>

@@ -108,24 +108,6 @@
     
     <item>
       <title>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</title>
-      <link>https://ard24ie.github.io/misc/1/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ard24ie.github.io/misc/1/</guid>
-      <description>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</description>
-    </item>
-    
-    <item>
-      <title>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</title>
-      <link>https://ard24ie.github.io/misc/2/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ard24ie.github.io/misc/2/</guid>
-      <description>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</description>
-    </item>
-    
-    <item>
-      <title>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</title>
       <link>https://ard24ie.github.io/patents/1/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
@@ -197,20 +179,38 @@
     </item>
     
     <item>
+      <title>test misc 1</title>
+      <link>https://ard24ie.github.io/misc/1/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ard24ie.github.io/misc/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test misc 2 with image and tag</title>
+      <link>https://ard24ie.github.io/misc/2/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ard24ie.github.io/misc/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bio</title>
+      <link>https://ard24ie.github.io/bio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ard24ie.github.io/bio/</guid>
+      <description> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam tincidunt mauris eu risus. Vestibulum auctor dapibus neque. Nunc dignissim risus id metus. Cras ornare tristique elit. Vivamus vestibulum ntulla nec ante. Praesent placerat risus quis eros. Fusce pellentesque suscipit nibh. Integer vitae libero ac risus egestas placerat. Vestibulum commodo felis quis tortor. Ut aliquam sollicitudin leo. Cras iaculis ultricies nulla. Donec quis dui at dolor tempor interdum.  </description>
+    </item>
+    
+    <item>
       <title>Bio</title>
       <link>https://ard24ie.github.io/fundings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ard24ie.github.io/fundings/</guid>
-      <description> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam tincidunt mauris eu risus. Vestibulum auctor dapibus neque. Nunc dignissim risus id metus. Cras ornare tristique elit. Vivamus vestibulum ntulla nec ante. Praesent placerat risus quis eros. Fusce pellentesque suscipit nibh. Integer vitae libero ac risus egestas placerat. Vestibulum commodo felis quis tortor. Ut aliquam sollicitudin leo. Cras iaculis ultricies nulla. Donec quis dui at dolor tempor interdum.  </description>
-    </item>
-    
-    <item>
-      <title>Funding</title>
-      <link>https://ard24ie.github.io/bio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ard24ie.github.io/bio/</guid>
       <description> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam tincidunt mauris eu risus. Vestibulum auctor dapibus neque. Nunc dignissim risus id metus. Cras ornare tristique elit. Vivamus vestibulum ntulla nec ante. Praesent placerat risus quis eros. Fusce pellentesque suscipit nibh. Integer vitae libero ac risus egestas placerat. Vestibulum commodo felis quis tortor. Ut aliquam sollicitudin leo. Cras iaculis ultricies nulla. Donec quis dui at dolor tempor interdum.  </description>
     </item>
     
