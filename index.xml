@@ -18,10 +18,10 @@
     
     <item>
       <title>First Post</title>
-      <link>https://ard24ie.github.io/articles/firstpost/</link>
+      <link>https://ard24ie.github.io/blog/firstpost/</link>
       <pubDate>Tue, 17 Nov 2020 11:06:43 +0330</pubDate>
       
-      <guid>https://ard24ie.github.io/articles/firstpost/</guid>
+      <guid>https://ard24ie.github.io/blog/firstpost/</guid>
       <description> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s.  </description>
     </item>
     
@@ -36,10 +36,10 @@
     
     <item>
       <title>Second Post</title>
-      <link>https://ard24ie.github.io/articles/secondpost/</link>
+      <link>https://ard24ie.github.io/blog/secondpost/</link>
       <pubDate>Tue, 17 Nov 2020 11:06:43 +0330</pubDate>
       
-      <guid>https://ard24ie.github.io/articles/secondpost/</guid>
+      <guid>https://ard24ie.github.io/blog/secondpost/</guid>
       <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</description>
     </item>
     
@@ -63,15 +63,6 @@
     
     <item>
       <title>Artificial Intelligence</title>
-      <link>https://ard24ie.github.io/links/1/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ard24ie.github.io/links/1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
       <link>https://ard24ie.github.io/teaching/1/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
@@ -90,29 +81,65 @@
     
     <item>
       <title>Computer Vision</title>
-      <link>https://ard24ie.github.io/links/2/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ard24ie.github.io/links/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer Vision</title>
-      <link>https://ard24ie.github.io/links/3/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ard24ie.github.io/links/3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer Vision</title>
       <link>https://ard24ie.github.io/teaching/2/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ard24ie.github.io/teaching/2/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</title>
+      <link>https://ard24ie.github.io/entrepreneurship/1/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ard24ie.github.io/entrepreneurship/1/</guid>
+      <description>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</description>
+    </item>
+    
+    <item>
+      <title>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</title>
+      <link>https://ard24ie.github.io/entrepreneurship/2/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ard24ie.github.io/entrepreneurship/2/</guid>
+      <description>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</description>
+    </item>
+    
+    <item>
+      <title>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</title>
+      <link>https://ard24ie.github.io/misc/1/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ard24ie.github.io/misc/1/</guid>
+      <description>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</description>
+    </item>
+    
+    <item>
+      <title>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</title>
+      <link>https://ard24ie.github.io/misc/2/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ard24ie.github.io/misc/2/</guid>
+      <description>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</description>
+    </item>
+    
+    <item>
+      <title>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</title>
+      <link>https://ard24ie.github.io/patents/1/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ard24ie.github.io/patents/1/</guid>
+      <description>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</description>
+    </item>
+    
+    <item>
+      <title>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</title>
+      <link>https://ard24ie.github.io/patents/2/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ard24ie.github.io/patents/2/</guid>
+      <description>Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models</description>
     </item>
     
     <item>

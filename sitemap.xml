@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>https://ard24ie.github.io/articles/</loc>
+    <loc>https://ard24ie.github.io/blog/</loc>
     <lastmod>2020-11-17T11:06:43+03:30</lastmod>
   </url>
   
   <url>
-    <loc>https://ard24ie.github.io/articles/firstpost/</loc>
+    <loc>https://ard24ie.github.io/blog/firstpost/</loc>
     <lastmod>2020-11-17T11:06:43+03:30</lastmod>
   </url>
   
@@ -28,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://ard24ie.github.io/articles/secondpost/</loc>
+    <loc>https://ard24ie.github.io/blog/secondpost/</loc>
     <lastmod>2020-11-17T11:06:43+03:30</lastmod>
   </url>
   
@@ -48,11 +48,6 @@
   </url>
   
   <url>
-    <loc>https://ard24ie.github.io/links/1/</loc>
-    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ard24ie.github.io/teaching/1/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
@@ -68,22 +63,47 @@
   </url>
   
   <url>
-    <loc>https://ard24ie.github.io/links/2/</loc>
-    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ard24ie.github.io/links/3/</loc>
-    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ard24ie.github.io/teaching/2/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ard24ie.github.io/links/</loc>
+    <loc>https://ard24ie.github.io/entrepreneurship/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ard24ie.github.io/misc/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ard24ie.github.io/entrepreneurship/1/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ard24ie.github.io/entrepreneurship/2/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ard24ie.github.io/misc/1/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ard24ie.github.io/misc/2/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ard24ie.github.io/patents/1/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ard24ie.github.io/patents/2/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,6 +114,11 @@
   
   <url>
     <loc>https://ard24ie.github.io/publications/2/</loc>
+    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ard24ie.github.io/patents/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
   
