@@ -123,7 +123,129 @@
       <input type="checkbox" id="menuToggle">
       <label for="menuToggle">Alireza Dehghani</label>
       <div class="menu-content">
-        <div>
+        
+<style>
+	select {
+  
+  appearance: none;
+  
+  background-color: transparent;
+  border: none;
+  padding: 0 1em 0 0;
+  margin: 0;
+  width: 100%;
+  font-family: inherit;
+  font-size: inherit;
+  cursor: inherit;
+  line-height: inherit;
+}
+select::-ms-expand {
+  display: none;
+}
+select {
+  
+  outline: none;
+}
+:root {
+  --select-border: #777;
+  --select-focus: blue;
+  --select-arrow: var(--select-border);
+}
+.select {
+	width: 100%;
+    align-items: center;
+    min-width: 15ch;
+    border: 0;
+    border-radius: 0.3em;
+    padding: 0.5em 0.5em;
+    font-size: 0.8rem;
+    cursor: pointer;
+    margin-top: 50px;
+    display: grid;
+    grid-template-areas: "select";
+    line-height: 1.1;
+    background: rgba(255,255,255,0.9);
+	display:none;
+}
+
+@media screen and (max-height: 675px){
+	.select{
+		display: grid!important;
+	}
+	.sidebar-nav{
+		display: none !important;
+	}
+}
+
+select,
+.select:after {
+  grid-area: select;justify-self: end;
+}
+
+.select::after {
+  content: "";
+  width: 0.8em;
+  height: 0.5em;
+  background-color: var(--select-arrow);
+  clip-path: polygon(100% 0%, 0 0%, 50% 100%);
+}
+
+</style>
+<div class="select">
+
+	<select onchange="location = this.value;" id="standard-select">
+
+		<option value="/">Menu</option>
+	 
+		 
+			 
+			<option value="/">Home</option>
+			fdfdsfds
+			 
+		 
+			 
+			<option value="/research/">Research</option>
+			fdfdsfds
+			 
+		 
+			 
+			<option value="/publications/">Publications</option>
+			fdfdsfds
+			 
+		 
+			 
+			<option value="/teaching/">Teaching</option>
+			fdfdsfds
+			 
+		 
+			 
+			<option value="/bio/">Bio</option>
+			fdfdsfds
+			 
+		 
+			 
+			<option value="/service/">Service</option>
+			fdfdsfds
+			 
+		 
+			 
+			<option value="/advising/">Advising</option>
+			fdfdsfds
+			 
+		 
+			 
+			<option value="/misc/">Misc</option>
+			fdfdsfds
+			 
+		 
+			 
+			<option value="/blog/">Blog</option>
+			fdfdsfds
+			 
+		
+	</select>
+  </div>
+<div>
 	<ul class="sidebar-nav">
 		 
 		 
@@ -146,7 +268,7 @@
 			 
 				<li>
 					<a href="/publications/">
-						<span>Publications &amp; Patents</span>
+						<span>Publications</span>
 					</a>
 				</li>
 			 
@@ -216,6 +338,9 @@
   <div class="aboutalireza">
 
      <style>
+       .post-list__item {
+          margin-bottom: 0.7em!important;
+       }
        .btn-o{
          background-color: #4294DF;
          color:#FFF;
@@ -407,9 +532,88 @@
 
 
    
+   <a style="text-transform: capitalize; border:2px dotted rgba(0,0,0,0.2);padding:4px 9px;border-radius:7px;" href="https://ard24ie.github.io/news">Older News <i class="fas fa-chevron-right"></i></a>
+
 </div>
 
 
+
+
+<br>
+<h3 class="item__titlebottom"><i class="fa fa-graduation-cap"></i> Recent Publications</h3>
+
+
+<div class="post-list">
+  
+
+      
+        
+      
+      <div class="post-list__item">
+        <span class="item__date" style="float:left;background-color: #81137c;border-radius: 4px;padding:3px 8px!important;line-height:20px;color:#FFF;margin-right:15px;">
+          Mar 10, 2020
+        </span>
+        <span style="font-size:14px;line-height:13px!important;" >
+          
+        
+        Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models
+        
+        
+        
+        <a href="https://example.com/" target="_blank"><i class="fa fa-file-pdf" style="font-size:18px"></i></a>
+        
+        
+        <a href="https://example.com/" target="_blank"><i class="fab fa-github-square" style="font-size:18px"></i></a>
+        
+        
+        <a href="https://example.com/" target="_blank"><i class="fab fa-youtube" style="font-size:18px"></i></a>
+        
+        
+        <a href="https://external_link.com/" target="_blank"><i class="fas fa-link" style="font-size:18px"></i></a>
+        
+        </span>
+        
+        </div>
+        
+
+
+   
+
+      
+        
+      
+      <div class="post-list__item">
+        <span class="item__date" style="float:left;background-color: #81137c;border-radius: 4px;padding:3px 8px!important;line-height:20px;color:#FFF;margin-right:15px;">
+          Mar 10, 2020
+        </span>
+        <span style="font-size:14px;line-height:13px!important;" >
+          
+        
+        Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models Off-line recognition of isolated Persian handwritten characters using multiple hidden Markov models
+        
+        
+        
+        <a href="https://example.com/" target="_blank"><i class="fa fa-file-pdf" style="font-size:18px"></i></a>
+        
+        
+        <a href="https://example.com/" target="_blank"><i class="fab fa-github-square" style="font-size:18px"></i></a>
+        
+        
+        <a href="https://example.com/" target="_blank"><i class="fab fa-youtube" style="font-size:18px"></i></a>
+        
+        
+        <a href="https://external_link.com/" target="_blank"><i class="fas fa-link" style="font-size:18px"></i></a>
+        
+        </span>
+        
+        </div>
+        
+
+
+   
+   <a style="text-transform: capitalize; border:2px dotted rgba(0,0,0,0.2);padding:4px 9px;border-radius:7px;" href="https://ard24ie.github.io/publications">All Publications <i class="fas fa-chevron-right"></i></a>
+
+</div>
 
         </div>
         
